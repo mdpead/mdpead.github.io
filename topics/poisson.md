@@ -3,9 +3,6 @@ title: "Poisson and Binomial Distributions"
 layout: page
 ---
 
-
-# Poisson and Binomial Distributions
-
 ## Bernoulli Distribution
 
 The Bernoulli Distribution is the probability distribution for a single trial with a two valued outcome, usually characterised as success or failure. The Bernoulli distribution is typically parameterised by the probability p where $ 0 \leq p \leq 1 $, then it is given by:
