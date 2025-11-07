@@ -1,6 +1,8 @@
 ---
 layout: home
-title: "Welcome to My ML Blog"
+title: "Welcome to My ML Site"
 ---
-Hi! This is my blog about machine learning. Check out my latest posts below.
+Welcome! This site contains pages about various machine learning topics.
+
+- [Poisson and Binomial Distributions](topics/poisson.md)
 

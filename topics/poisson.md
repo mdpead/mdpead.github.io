@@ -1,8 +1,6 @@
 ---
 title: "Poisson and Binomial Distributions"
-date: 2025-11-07
-layout: post
-categories: [math, probability, distributions]
+layout: page
 ---
 
 
