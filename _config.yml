@@ -1,1 +1,3 @@
-theme: jekyll-theme-cayman
+title: "Machine Learning Blog"
+description: "A blog about ML experiments, tutorials, and ideas"
+theme: minima
