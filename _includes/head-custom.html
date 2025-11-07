@@ -1,14 +1,11 @@
-<!-- _includes/head.html -->
-<!-- Keep Minima’s defaults intact and just add MathJax -->
+<!-- _includes/head-custom.html -->
+<!-- Add MathJax safely without replacing the default head -->
 <script>
   window.MathJax = {
     tex: {
       inlineMath: [['$', '$'], ['\\(', '\\)']],
       displayMath: [['$$', '$$'], ['\\[', '\\]']],
       processEscapes: true
-    },
-    options: {
-      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
     },
     svg: { fontCache: 'global' }
   };
